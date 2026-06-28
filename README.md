@@ -1,5 +1,10 @@
-# LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Competitive Programming Solutions
+
+A collection of my solutions to LeetCode problems.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Why This Repository Exists
+
+I'm on a mission to master algorithms and data structures as part of my journey to build low-latency trading systems. This repository tracks my daily progress, documenting the problems I solve and the patterns I learn.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
