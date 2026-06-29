@@ -12,6 +12,7 @@ I'm on a mission to master algorithms and data structures as part of my journey 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omshreevinayak/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/omshreevinayak/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,12 @@ I'm on a mission to master algorithms and data structures as part of my journey 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omshreevinayak/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/omshreevinayak/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/omshreevinayak/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
